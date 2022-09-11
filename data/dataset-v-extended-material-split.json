@@ -1,0 +1,302 @@
+[
+  {
+    "ASX_Code": "VAN",
+    "filename": "van_misc_report_4$IOB-E.csv",
+    "cloudname": "van/misc_report_4$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "KWR",
+    "filename": "kwr_misc_report_13$IOB-E.csv",
+    "cloudname": "kwr/misc_report_13$IOB-E.csv",
+    "dataset": "validate"
+  },
+  {
+    "ASX_Code": "OZZ",
+    "filename": "ozz_misc_report_1$IOB-E.csv",
+    "cloudname": "ozz/misc_report_1$IOB-E.csv",
+    "dataset": "validate"
+  },
+  {
+    "ASX_Code": "EVN",
+    "filename": "evn_misc_report_1$IOB-E.csv",
+    "cloudname": "evn/misc_report_1$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "HRN",
+    "filename": "hrn_misc_report_8$IOB-E.csv",
+    "cloudname": "hrn/misc_report_8$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "MPG",
+    "filename": "mpg_misc_report_1$IOB-E.csv",
+    "cloudname": "mpg/misc_report_1$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "TIE",
+    "filename": "tie_technical_report_3$IOB-E.csv",
+    "cloudname": "tie/technical_report_3$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "AGS",
+    "filename": "ags_misc_report_8$IOB-E.csv",
+    "cloudname": "ags/misc_report_8$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "OKJ",
+    "filename": "okj_mis_report_1$IOB-E.csv",
+    "cloudname": "okj/mis_report_1$IOB-E.csv",
+    "dataset": "validate"
+  },
+  {
+    "ASX_Code": "OZL",
+    "filename": "ozl_2017_annual_report$IOB-E.csv",
+    "cloudname": "ozl/2017_annual_report$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "AGS",
+    "filename": "ags_2016_annual_report$IOB-E.csv",
+    "cloudname": "ags/2016_annual_report$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "KWR",
+    "filename": "kwr_misc_report_2$IOB-E.csv",
+    "cloudname": "kwr/misc_report_2$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "AGS",
+    "filename": "ags_2021_annual_report$IOB-E.csv",
+    "cloudname": "ags/2021_annual_report$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "LEX",
+    "filename": "lex_misc_report_8$IOB-E.csv",
+    "cloudname": "lex/misc_report_8$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "MEK",
+    "filename": "mek_misc_report_14$IOB-E.csv",
+    "cloudname": "mek/misc_report_14$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "TEM",
+    "filename": "tem_misc_report_1$IOB-E.csv",
+    "cloudname": "tem/misc_report_1$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "OM1",
+    "filename": "om1_technical_report_4$IOB-E.csv",
+    "cloudname": "om1/technical_report_4$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "OZL",
+    "filename": "ozl_2018_annual_report$IOB-E.csv",
+    "cloudname": "ozl/2018_annual_report$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "MTB",
+    "filename": "mtb_misc_report_1$IOB-E.csv",
+    "cloudname": "mtb/misc_report_1$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "OZZ",
+    "filename": "ozz_misc_report_2$IOB-E.csv",
+    "cloudname": "ozz/misc_report_2$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "MEK",
+    "filename": "mek_misc_report_13$IOB-E.csv",
+    "cloudname": "mek/misc_report_13$IOB-E.csv",
+    "dataset": "validate"
+  },
+  {
+    "ASX_Code": "OKU",
+    "filename": "oku_2016_annual_report$IOB-E.csv",
+    "cloudname": "oku/2016_annual_report$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "CAD",
+    "filename": "cad_misc_report_2$IOB-E.csv",
+    "cloudname": "cad/misc_report_2$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "NES",
+    "filename": "nes_2021_annual_report$IOB-E.csv",
+    "cloudname": "nes/2021_annual_report$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "MEK",
+    "filename": "mek_misc_report_6$IOB-E.csv",
+    "cloudname": "mek/misc_report_6$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "MEK",
+    "filename": "mek_misc_report_12$IOB-E.csv",
+    "cloudname": "mek/misc_report_12$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "LEX",
+    "filename": "lex_2021_annual_report$IOB-E.csv",
+    "cloudname": "lex/2021_annual_report$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "LEX",
+    "filename": "lex_2019_annual_report$IOB-E.csv",
+    "cloudname": "lex/2019_annual_report$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "AME",
+    "filename": "ame_misc_report_22$IOB-E.csv",
+    "cloudname": "ame/misc_report_22$IOB-E.csv",
+    "dataset": "validate"
+  },
+  {
+    "ASX_Code": "AGS",
+    "filename": "ags_2019_annual_report$IOB-E.csv",
+    "cloudname": "ags/2019_annual_report$IOB-E.csv",
+    "dataset": "validate"
+  },
+  {
+    "ASX_Code": "AME",
+    "filename": "ame_misc_report_10$IOB-E.csv",
+    "cloudname": "ame/misc_report_10$IOB-E.csv",
+    "dataset": "validate"
+  },
+  {
+    "ASX_Code": "LEX",
+    "filename": "lex_misc_report_1$IOB-E.csv",
+    "cloudname": "lex/misc_report_1$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "EVN",
+    "filename": "evn_2016_annual_report$IOB-E.csv",
+    "cloudname": "evn/2016_annual_report$IOB-E.csv",
+    "dataset": "validate"
+  },
+  {
+    "ASX_Code": "RGL",
+    "filename": "rgl_2018_annual_report$IOB-E.csv",
+    "cloudname": "rgl/2018_annual_report$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "RGL",
+    "filename": "rgl_2021_annual_report$IOB-E.csv",
+    "cloudname": "rgl/2021_annual_report$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "VAN",
+    "filename": "van_misc_report_6$IOB-E.csv",
+    "cloudname": "van/misc_report_6$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "MEK",
+    "filename": "mek_misc_report_1$IOB-E.csv",
+    "cloudname": "mek/misc_report_1$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "CMO",
+    "filename": "cmo_misc_report_1$IOB-E.csv",
+    "cloudname": "cmo/misc_report_1$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "ITM",
+    "filename": "itm_misc_report_8$IOB-E.csv",
+    "cloudname": "itm/misc_report_8$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "PRS",
+    "filename": "prs_misc_report_2$IOB-E.csv",
+    "cloudname": "prs/misc_report_2$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "PRS",
+    "filename": "prs_2021_annual_report$IOB-E.csv",
+    "cloudname": "prs/2021_annual_report$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "AME",
+    "filename": "ame_misc_report_5$IOB-E.csv",
+    "cloudname": "ame/misc_report_5$IOB-E.csv",
+    "dataset": "validate"
+  },
+  {
+    "ASX_Code": "PRS",
+    "filename": "prs_misc_report_4$IOB-E.csv",
+    "cloudname": "prs/misc_report_4$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "MPG",
+    "filename": "mpg_technical_report_1$IOB-E.csv",
+    "cloudname": "mpg/technical_report_1$IOB-E.csv",
+    "dataset": "validate"
+  },
+  {
+    "ASX_Code": "RGL",
+    "filename": "rgl_misc_report_4$IOB-E.csv",
+    "cloudname": "rgl/misc_report_4$IOB-E.csv",
+    "dataset": "validate"
+  },
+  {
+    "ASX_Code": "VAN",
+    "filename": "van_2021_annual_report$IOB-E.csv",
+    "cloudname": "van/2021_annual_report$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "AME",
+    "filename": "ame_misc_report_19$IOB-E.csv",
+    "cloudname": "ame/misc_report_19$IOB-E.csv",
+    "dataset": "train"
+  },
+  {
+    "ASX_Code": "NES",
+    "filename": "nes_misc_report_1$IOB-E.csv",
+    "cloudname": "nes/misc_report_1$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "MEK",
+    "filename": "mek_misc_report_5$IOB-E.csv",
+    "cloudname": "mek/misc_report_5$IOB-E.csv",
+    "dataset": "test"
+  },
+  {
+    "ASX_Code": "CMO",
+    "filename": "cmo_misc_report_5$IOB-E.csv",
+    "cloudname": "cmo/misc_report_5$IOB-E.csv",
+    "dataset": "test"
+  }
+]
