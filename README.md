@@ -2,7 +2,8 @@
 ## About
 This is the repository for the corpus for extracting drillhole results from Australian mining companies. This corpus is further discussed in <insert citation here>.
 
-Mining companies provide reports about their mineral exploration programs, commonly through annual reports and assay reports. These reports contain "drill-hole sentences" which are phrases containing aunique drillhole code, depth, material, type and material percentage. 
+Mining companies provide reports about their mineral exploration programs, commonly through annual reports and assay reports. These reports contain "drill-hole sentences" which are phrases containing aunique drillhole code, depth, material, type and material percentage. See the example below.
+
 ![Example Sentence](drillhole.svg)
 
 ## Dataset
@@ -15,3 +16,8 @@ M - Material
 P - Percentage
 D - Depth
 E - Extra
+
+## Benchmark Models
+Two models were used to assess the performance of neural network models for extracting drillhole data.
+1. Bi-LSTM-CRF based from https://github.com/Gxzzz/BiLSTM-CRF
+2. BERT model based from 
