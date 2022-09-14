@@ -11,11 +11,11 @@ Contained in the data folder is the annotated mining report data in csv format. 
 
 ## Annotation Schema
 The IOB format was used to tag the dataset with 5 types of tags.
-H - Hole ID
-M - Material
-P - Percentage
-D - Depth
-E - Extra
+H - Hole ID  
+M - Material  
+P - Percentage  
+D - Depth  
+E - Extra  
 
 ## Benchmark Models
 Two models were used to assess the performance of neural network models for extracting drillhole data.
