@@ -1,6 +1,6 @@
 # Automatic-Extraction-of-Mining-Company-Drillhole-Results
 ## About
-This is the repository for the corpus for extracting drillhole results from Australian mining companies. This corpus is further discussed in a short paper shown below.  
+This is the repository for the corpus for extracting drillhole results from Australian mining companies. This corpus is further discussed in a short paper shown below. There is also a short blog post about our research found [here](https://adamdimeski.github.io/2022/12/18/Automatic-Extraction-of-Mineral-Results.html).
 
 ## Paper Details  
 Paper Title: Automatic Extraction of Structured Mineral Drillhole Results from Unstructured Mining Company Reports  
